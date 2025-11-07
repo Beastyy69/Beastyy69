@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm Harshit Shaw</h1>
-
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23A020F0&size=26&center=true&vCenter=true&width=600&lines=Frontend+Developer;Web+3D+Enthusiast;Gamer+🎮;Next.js+%7C+Three.js;Always+Learning+New+Things">
-</p>
+<h3 align="center">Frontend Developer | Web 3D Enthusiast | Gamer 🎮 | Lifelong Learner</h3>
 
 ---
 
 ### 🌱 About Me
-- 🎓 **B.Tech CSE (2nd Year)**
+- 🎓 B.Tech CSE (2nd Year)
 - 💻 Frontend Developer specializing in **Next.js** & **Three.js**
 - 🧠 Currently learning **SQL & Database Management**
-- 🎮 **Gamer by Passion** (Competitive + Chill Play)
-- 🌐 Love creating **interactive & immersive web experiences**
-- 📫 Email: **mohitshaw236@gmail.com**
+- 🎮 **Gamer by Passion** — Competitive + Fun Play
+- 🚀 Love creating **interactive, immersive web experiences**
+- 📫 Reach me at: **mohitshaw236@gmail.com**
 
 ---
 
@@ -25,49 +21,44 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Languages and Tools
 <p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nextjs,threejs,tailwind,nodejs,mysql,git,github" />
 </p>
 
 ---
 
-### 🎮 Gaming Side of Me
-- FPS, Story Games & Team Strategy
-- Competitive + Chill Play balance
-- Gaming boosts reflex + focus 🔥
+### 🎮 Gaming & Interests
+- FPS & Story-driven games
+- Esports competitive mindset
+- Team Play + Strategy
+
+> *Gaming teaches focus, creativity & patience — same energy goes into coding.*  
 
 ---
 
 ### 📊 GitHub Stats
-
-> **If streak not visible:** Go to **Settings → Profile → Enable public contributions**
+> If streak shows blank → Make contributions **public** (Settings → Profile)
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Beastyy69&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Beastyy69&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Beastyy69&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Beastyy69&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beastyy69&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 🐍 Contribution Snake (Animated)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Beastyy69/Beastyy69/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beastyy69&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-### 🧊 3D Contribution Graph
-<p align="center">
-  <img src="https://github.com/Beastyy69/Beastyy69/blob/output/profile-3d-contrib/profile-night-rainbow.svg" />
-</p>
+### 🚀 What I Do
+- Build **modern UI** with **React / Next.js**
+- Create **3D Web Experiences** using **Three.js**
+- Work with **APIs, animations & dynamic UI**
+- Focus on **clean, responsive & aesthetic design**
 
 ---
 
@@ -76,4 +67,4 @@
 
 ---
 
-⭐ **Thanks for visiting — Respect the Grind.**
+⭐ **Thanks for visiting — feel free to connect!**
