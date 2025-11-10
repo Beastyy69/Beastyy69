@@ -1,5 +1,30 @@
-<h1 align="center">Hi 👋, I'm Harshit Shaw</h1>
+<h1 align="center">
+  Hi <span class="wave">👋</span>, I'm <span class="gradient-text">Harshit Shaw</span>
+</h1>
+
 <h3 align="center">Frontend Developer | Web 3D Enthusiast | Gamer 🎮 | Lifelong Learner</h3>
+
+<style>
+.gradient-text {
+  background: linear-gradient(90deg, #8a2be2, #ff4ecd, #4facfe, #00f2fe);
+  background-size: 300% 300%;
+  animation: gradientMove 6s infinite alternate;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+@keyframes gradientMove {
+  0% { background-position: 0% 50%; }
+  100% { background-position: 100% 50%; }
+}
+.wave {
+  animation: waveAnim 2s infinite;
+  display: inline-block;
+}
+@keyframes waveAnim {
+  0%, 100% { transform: rotate(0deg); }
+  50% { transform: rotate(20deg); }
+}
+</style>
 
 ---
 
@@ -8,7 +33,7 @@
 - 💻 Frontend Developer specializing in **Next.js** & **Three.js**
 - 🧠 Currently learning **SQL & Database Management**
 - 🎮 **Gamer by Passion** — Competitive + Fun Play
-- 🚀 Love creating **interactive, immersive web experiences**
+- 🚀 Creating **immersive & interactive web experiences**
 - 📫 Reach me at: **mohitshaw236@gmail.com**
 
 ---
@@ -29,36 +54,34 @@
 ---
 
 ### 🎮 Gaming & Interests
-- FPS & Story-driven games
-- Esports competitive mindset
-- Team Play + Strategy
+- FPS & Story Games
+- Esports Competitive Mindset
+- Strategy + Team Coordination
 
-> *Gaming teaches focus, creativity & patience — same energy goes into coding.*  
+> *Gaming teaches focus, strategy & patience — same energy goes into coding.*  
 
 ---
 
 ### 📊 GitHub Stats
-> If streak shows blank → Make contributions **public** (Settings → Profile)
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Beastyy69&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Beastyy69&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Beastyy69&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Beastyy69&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beastyy69&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beastyy69&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ### 🚀 What I Do
-- Build **modern UI** with **React / Next.js**
-- Create **3D Web Experiences** using **Three.js**
-- Work with **APIs, animations & dynamic UI**
-- Focus on **clean, responsive & aesthetic design**
+- Craft **modern UI** with **React / Next.js**
+- Build **3D Interactive Web Experiences** using **Three.js**
+- Use **APIs, Animations & Dynamic Interfaces**
+- Focus on **clean, smooth & aesthetic UI**
 
 ---
 
@@ -67,4 +90,4 @@
 
 ---
 
-⭐ **Thanks for visiting feel free to connect!**
+⭐ **Thanks for visiting! Feel free to connect!**
