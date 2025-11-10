@@ -32,7 +32,7 @@ const harshit = {
 ```
 
 <div align="center">
-  <img alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+  <img alt="Coding" width="400" src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAd/coding.gif">
 </div>
 
 ---
