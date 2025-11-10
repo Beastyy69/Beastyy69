@@ -31,7 +31,10 @@ const harshit = {
 };
 ```
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<div align="center">
+  <img alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+</div>
+
 
 ### 🚀 What I'm Up To
 
