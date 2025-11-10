@@ -30,22 +30,24 @@ const harshit = {
     mindset: "The grind never stops — in code, in gaming, in life"
 };
 ```
-
-<div align="center">
-  <img alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-</div>
-
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 16px;">
+  
+<div>
 
 ### 🚀 What I'm Up To
 
-- 🔭 Building **immersive web experiences** with Three.js
-- 🌱 Mastering **SQL & Database Architecture**
-- 🎮 Grinding **FPS & Story-Driven Games**
-- 💡 Exploring **Web3D, Shaders & Animations**
-- 🤝 Open to **collaborations & projects**
-- ⚡ Fun fact: I code better at **night** 🌙
+- 🔭 Building **immersive web experiences** with Three.js  
+- 🌱 Mastering **SQL & Database Architecture**  
+- 🎮 Grinding **FPS & Story-Driven Games**  
+- 💡 Exploring **Web3D, Shaders & Animations**  
+- 🤝 Open to **collaborations & projects**  
+- ⚡ Fun fact: I code better at **night** 🌙  
 
----
+</div>
+
+<img alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+
+</div>
 
 ## 🛠️ Tech Stack
 
